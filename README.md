@@ -8,7 +8,7 @@ Passionate about programming and IT technology, with experience in Python, C
   
 ### 🌱 currently learning
 - Numpy, Pandas and data analysis in Python
-- Javascript
+- little bit of Web Development and Javascript
   
 
 <!--
