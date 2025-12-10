@@ -1,4 +1,4 @@
-# Hi,I'am Viktor Sinagl 👋
+# Hi, I'am Viktor 👋
 Mechanical engineering graduate, working as a Data analyst/Data enginner on SAP BI Platform.
 Passionate about programming, IT and data, with experience in Python, C  
   
